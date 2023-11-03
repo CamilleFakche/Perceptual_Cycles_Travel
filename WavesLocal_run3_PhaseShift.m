@@ -3,7 +3,7 @@
 
 dirScript = 'my_path_scripts'; % where this script is
 cd(dirScript);
-dirData = 'D:\Travail\2018-2022_PhD\4-Waves\Article\DataTesting' ;% 'my_path_data'; % where the data are
+dirData = 'my_path_data'; % where the data are
 ListSuj = {'4wmsoci' 'egipb68' 'rrm6ne2' 'oiode78' 'ucim3ab' 'gx0xqtk' '0gygnw2' 'c71rpql' 'ss32xn3' ...
     'to23poo' 'xuimlor' 'tm75twi' 'hkqi4hi' 'gipl7pg' '69pejov' 'jvzhekl' 'psdj2b7'};
 ListF = {'4','6','8','10'}; % List of frequencies 
